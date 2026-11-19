@@ -1,0 +1,156 @@
+[
+  {
+    "id": 1,
+    "categoria": "Documentos",
+    "titulo": "Tirar o CPF",
+    "palavras_chave": ["cpf", "tirar cpf", "inscricao no cpf", "cadastro de pessoa fisica"],
+    "resposta": "O CPF é gratuito. Faça a inscrição pelo site da Receita Federal ou pelo gov.br. Correios, Banco do Brasil e cartórios conveniados também fazem, mas podem cobrar uma taxa de atendimento (R$ 7,00 segundo a Receita).",
+    "documentos": ["Documento oficial com foto ou certidão de nascimento"],
+    "onde": "Site da Receita Federal (gov.br/receitafederal) ou, pessoalmente, Correios, Banco do Brasil e cartórios conveniados",
+    "fonte": "https://www.gov.br/receitafederal",
+    "verificado_em": "2026-11-17"
+  },
+  {
+    "id": 2,
+    "categoria": "Documentos",
+    "titulo": "Emitir a Carteira de Trabalho Digital",
+    "palavras_chave": ["carteira de trabalho", "carteira de trabalho digital", "ctps", "carteira digital"],
+    "resposta": "A Carteira de Trabalho hoje é digital. Baixe o aplicativo Carteira de Trabalho Digital, entre com sua conta gov.br e use o seu CPF. Se você ainda não tem CPF, faça o CPF primeiro.",
+    "documentos": ["CPF", "Conta gov.br"],
+    "onde": "Aplicativo ou site Carteira de Trabalho Digital",
+    "fonte": "https://www.gov.br/trabalho-e-emprego",
+    "verificado_em": "2026-11-17"
+  },
+  {
+    "id": 3,
+    "categoria": "Documentos",
+    "titulo": "Tirar o título de eleitor",
+    "palavras_chave": ["titulo de eleitor", "titulo eleitoral", "e-titulo", "tirar titulo"],
+    "resposta": "O título é emitido pela Justiça Eleitoral. Faça o pedido pelo site do TSE e siga a orientação para ir ao cartório eleitoral quando for necessário. O voto é facultativo aos 16 e 17 anos e obrigatório a partir dos 18.",
+    "documentos": ["Documento oficial com foto", "Comprovante de residência", "Certidão de nascimento ou de casamento"],
+    "onde": "Site do TSE e cartório eleitoral da sua cidade",
+    "fonte": "https://www.tse.jus.br",
+    "verificado_em": "2026-11-17"
+  },
+  {
+    "id": 4,
+    "categoria": "Documentos",
+    "titulo": "Criar a conta gov.br",
+    "palavras_chave": ["conta gov br", "gov br", "login gov", "senha gov br"],
+    "resposta": "Para usar a Carteira de Trabalho Digital e outros serviços do governo, crie a conta gov.br pelo aplicativo ou pelo site, usando o seu CPF.",
+    "documentos": ["CPF"],
+    "onde": "Aplicativo gov.br ou site gov.br",
+    "fonte": "https://www.gov.br/governodigital/pt-br/identidade/conta-gov-br",
+    "verificado_em": "2026-11-17"
+  },
+  {
+    "id": 5,
+    "categoria": "Contratação",
+    "titulo": "Ter o contrato registrado na carteira (carteira assinada)",
+    "palavras_chave": ["carteira assinada", "registro na carteira", "contrato registrado", "registro em carteira"],
+    "resposta": "A empresa deve registrar o seu contrato na Carteira de Trabalho em até 5 dias úteis. Hoje o registro é digital: confira no aplicativo Carteira de Trabalho Digital se o seu contrato apareceu. Se não apareceu, fale com o RH da empresa.",
+    "documentos": ["CPF", "Conta gov.br"],
+    "onde": "Aplicativo Carteira de Trabalho Digital e RH da empresa",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452.htm",
+    "verificado_em": "2026-11-17"
+  },
+  {
+    "id": 6,
+    "categoria": "Contratação",
+    "titulo": "Fazer o exame médico admissional",
+    "palavras_chave": ["exame admissional", "exame medico", "exame de admissao", "exame para trabalhar"],
+    "resposta": "O exame médico admissional é obrigatório antes de começar a trabalhar e é a empresa que paga. Você não deve pagar por ele.",
+    "documentos": ["Documento oficial com foto"],
+    "onde": "Local indicado pela empresa",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452.htm",
+    "verificado_em": "2026-11-17"
+  },
+  {
+    "id": 7,
+    "categoria": "Contratação",
+    "titulo": "Entender o contrato de experiência",
+    "palavras_chave": ["contrato de experiencia", "periodo de experiencia", "contrato de 90 dias", "experiencia"],
+    "resposta": "O contrato de experiência pode durar no máximo 90 dias. Ele pode ser prorrogado uma vez, mas a soma dos períodos não pode passar de 90 dias.",
+    "documentos": ["Cópia do contrato assinado"],
+    "onde": "RH da empresa contratante",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452.htm",
+    "verificado_em": "2026-11-17"
+  },
+  {
+    "id": 8,
+    "categoria": "Contratação",
+    "titulo": "Trabalhar como Jovem Aprendiz",
+    "palavras_chave": ["jovem aprendiz", "menor aprendiz", "aprendizagem", "programa de aprendiz"],
+    "resposta": "O contrato de aprendizagem é para jovens de 14 a 24 anos. Tem carteira assinada, pode durar até 2 anos e junta trabalho com um curso de aprendizagem.",
+    "documentos": ["Documento oficial com foto", "CPF", "Carteira de Trabalho Digital"],
+    "onde": "Empresas contratantes e instituições que oferecem o curso de aprendizagem",
+    "fonte": "https://www.gov.br/trabalho-e-emprego",
+    "verificado_em": "2026-11-17"
+  },
+  {
+    "id": 9,
+    "categoria": "Salário e benefícios",
+    "titulo": "Receber o vale-transporte",
+    "palavras_chave": ["vale transporte", "vale-transporte", "vt", "transporte para o trabalho"],
+    "resposta": "O vale-transporte serve para ir e voltar do trabalho. Você pede à empresa e ela pode descontar até 6% do seu salário básico.",
+    "documentos": ["Informar o endereço e o transporte que você usa"],
+    "onde": "RH da empresa",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/leis/l7418.htm",
+    "verificado_em": "2026-11-17"
+  },
+  {
+    "id": 10,
+    "categoria": "Salário e benefícios",
+    "titulo": "Consultar o FGTS",
+    "palavras_chave": ["fgts", "fundo de garantia", "saldo do fgts", "deposito do fgts"],
+    "resposta": "O FGTS é um dinheiro que a empresa deposita todo mês em uma conta no seu nome, em geral 8% do salário (2% para jovem aprendiz). Você consulta o saldo pelo aplicativo FGTS.",
+    "documentos": ["CPF"],
+    "onde": "Aplicativo FGTS ou agência da Caixa",
+    "fonte": "https://www.caixa.gov.br/beneficios-trabalhador/fgts/Paginas/default.aspx",
+    "verificado_em": "2026-11-17"
+  },
+  {
+    "id": 11,
+    "categoria": "Salário e benefícios",
+    "titulo": "Receber o 13º salário",
+    "palavras_chave": ["13 salario", "13o salario", "decimo terceiro", "gratificacao natalina"],
+    "resposta": "O 13º salário é pago em duas parcelas: a primeira até 30 de novembro e a segunda até 20 de dezembro. Quem trabalhou menos de um ano recebe proporcional aos meses trabalhados.",
+    "documentos": ["Holerite (contracheque) para conferir os valores"],
+    "onde": "RH da empresa",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/leis/l4090.htm",
+    "verificado_em": "2026-11-17"
+  },
+  {
+    "id": 12,
+    "categoria": "Salário e benefícios",
+    "titulo": "Saber quando o salário deve ser pago",
+    "palavras_chave": ["pagamento do salario", "dia do pagamento", "prazo do salario", "holerite"],
+    "resposta": "O salário mensal deve ser pago até o 5º dia útil do mês seguinte ao trabalhado. Peça o holerite (contracheque) para conferir pagamentos e descontos.",
+    "documentos": ["Holerite (contracheque)"],
+    "onde": "RH da empresa",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452.htm",
+    "verificado_em": "2026-11-17"
+  },
+  {
+    "id": 13,
+    "categoria": "Direitos",
+    "titulo": "Tirar férias",
+    "palavras_chave": ["ferias", "direito a ferias", "ferias remuneradas", "tirar ferias"],
+    "resposta": "Depois de 12 meses de trabalho você tem direito a 30 dias de férias. Você recebe o salário e mais um terço. A empresa deve avisar a data com antecedência.",
+    "documentos": ["Aviso de férias dado pela empresa"],
+    "onde": "RH da empresa",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452.htm",
+    "verificado_em": "2026-11-17"
+  },
+  {
+    "id": 14,
+    "categoria": "Direitos",
+    "titulo": "Pedir o seguro-desemprego",
+    "palavras_chave": ["seguro desemprego", "seguro-desemprego", "fui demitido", "demissao sem justa causa"],
+    "resposta": "Quem é demitido sem justa causa pode pedir o seguro-desemprego, em geral entre 7 e 120 dias depois da demissão. No primeiro pedido, é preciso ter trabalhado com carteira assinada por pelo menos 12 dos últimos 18 meses.",
+    "documentos": ["Documento oficial com foto", "CPF", "Documentos da demissão entregues pela empresa"],
+    "onde": "Aplicativo Carteira de Trabalho Digital, portal gov.br ou unidades do Sine",
+    "fonte": "https://www.gov.br/trabalho-e-emprego",
+    "verificado_em": "2026-11-17"
+  }
+]
