@@ -24,6 +24,8 @@ Quem consegue o primeiro emprego costuma ter dúvidas simples, mas importantes: 
 
 ## Como executar
 
+INPORTANTE: É PRECISO BAIXAR TODO O CÓDIGO EM "DOWNLOAD ZIP" NA ABA "CODE"!
+
 Requisitos: Python 3.8 ou mais novo. Não usa bibliotecas externas.
 
 ```
