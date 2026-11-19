@@ -7,7 +7,9 @@ Assistente de terminal, feito em Python, que orienta **jovens no primeiro empreg
 | Nome | RM |
 
 | Matheus Carpinheiro Moreno | 571770 |
+
 | Ângelo Malta Reina | 570769 |
+
 | Gustavo Mendonça Duarte | 570561 |
 
 ## Público e problema
